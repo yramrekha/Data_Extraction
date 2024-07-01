@@ -17,6 +17,7 @@ This repository contains scripts and solutions for processing OCR data from imag
 - Description: This script merges the two separate processes into a single workflow, offering an alternative for those who prefer a unified approach.
 
 **Future Improvements**
+
 Considerations for future enhancements include:
 - Combined CSV Script: Integrating a feature into `Model.py` that continuously adds data from new scanned invoices to the existing CSV file, updating it as necessary.
 
